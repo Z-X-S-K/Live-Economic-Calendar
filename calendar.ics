@@ -9,11 +9,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:3adaf6f5-276b-5149-9da1-82a0cac3909c@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260728T140000Z
 DTEND:20260728T143000Z
 SUMMARY:USD CB Consumer Confidence
-DESCRIPTION:Forecast: 92.1\nPrevious: 91.2\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 92.4\nPrevious: 91.2\nActual: 未公布\nCurrency: USD\nI
  mpact: Medium\n说明: High impact macro event；实际影响取决于结果与市场预期差。\n备注: Forecas
  t / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -31,7 +31,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0c8fbf37-571f-5f2b-9046-a0cd890acafb@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260729T180000Z
 DTEND:20260729T183000Z
 SUMMARY:USD Federal Funds Rate
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:96e2f6f4-55cc-5b4e-b10b-c3a41cb62d45@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260729T180000Z
 DTEND:20260729T183000Z
 SUMMARY:USD FOMC Statement
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:79788788-1912-5d06-9e01-5534a34607d3@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260729T183000Z
 DTEND:20260729T190000Z
 SUMMARY:USD FOMC Press Conference
@@ -99,11 +99,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:05206e65-06b3-5c2f-84a9-e3766c62bd0e@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260730T123000Z
 DTEND:20260730T130000Z
 SUMMARY:USD Advance GDP q/q
-DESCRIPTION:Forecast: 2.3%\nPrevious: 2.0%\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 2.0%\nPrevious: 2.0%\nActual: 未公布\nCurrency: USD\nI
  mpact: High\n说明: 增长端核心数据；显著偏离预期会影响美元、收益率和指数。\n备注: Forecast / Previous / 
  Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -121,11 +121,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:84879743-cb2f-5783-ab1d-622f6b47fee7@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260730T123000Z
 DTEND:20260730T130000Z
 SUMMARY:USD Core PCE Price Index m/m
-DESCRIPTION:Forecast: 0.1%\nPrevious: 0.3%\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 0.2%\nPrevious: 0.3%\nActual: 未公布\nCurrency: USD\nI
  mpact: High\n说明: Fed 更重视的通胀指标之一；Core PCE 对利率预期影响较大。\n备注: Forecast / Prev
  ious / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -143,11 +143,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:44894c23-47a4-59b0-a8e8-aa4780ff830f@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260730T123000Z
 DTEND:20260730T130000Z
 SUMMARY:USD Advance GDP Price Index q/q
-DESCRIPTION:Forecast: 3.7%\nPrevious: 3.6%\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 4.1%\nPrevious: 3.6%\nActual: 未公布\nCurrency: USD\nI
  mpact: Medium\n说明: 增长端核心数据；显著偏离预期会影响美元、收益率和指数。\n备注: Forecast / Previous 
  / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -165,11 +165,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa9c316-c9e8-576f-9681-fda0a6f2d346@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260730T123000Z
 DTEND:20260730T130000Z
 SUMMARY:USD Unemployment Claims
-DESCRIPTION:Forecast: 206K\nPrevious: 187K\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 201K\nPrevious: 187K\nActual: 未公布\nCurrency: USD\nI
  mpact: Medium\n说明: 劳动力市场核心数据；会影响美元、美债、黄金、股指。\n备注: Forecast / Previous / 
  Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -187,11 +187,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:13340417-0798-5d84-9644-db3e157f194a@live-economic-calendar
-DTSTAMP:20260727T192424Z
+DTSTAMP:20260728T022355Z
 DTSTART:20260731T134500Z
 DTEND:20260731T141500Z
 SUMMARY:USD Chicago PMI
-DESCRIPTION:Forecast: 57.5\nPrevious: 56.7\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 55.9\nPrevious: 56.7\nActual: 未公布\nCurrency: USD\nI
  mpact: Low\n说明: 景气度数据；影响增长预期和风险偏好。\n备注: Forecast / Previous / Actual 会随 
  Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
