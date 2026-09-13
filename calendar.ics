@@ -8,56 +8,147 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:17a2cde2-99d0-50f5-a4f5-1833a657ac9d@live-economic-calendar
-DTSTAMP:20260913T031134Z
-DTSTART:20260910T123000Z
-DTEND:20260910T130000Z
-SUMMARY:USD Core PPI m/m
-DESCRIPTION:Forecast: 0.3%\nPrevious: 0.2%\nActual: 未公布\nCurrency: USD\nI
- mpact: High\n说明: 上游价格压力数据；可能影响 CPI/PCE 预期。\n备注: Forecast / Previous / Ac
- tual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
+UID:c8948682-b793-5eca-b6e4-131c89cff976@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+SUMMARY:USD Core Retail Sales m/m
+DESCRIPTION:Forecast: 0.5%\nPrevious: -0.3%\nActual: 未公布\nCurrency: USD\n
+ Impact: Medium\n说明: 消费强弱数据；美国消费韧性会影响增长与利率预期。\n备注: Forecast / Previous / 
+ Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
 URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD Core PPI m/m
+DESCRIPTION:30分钟后: USD Core Retail Sales m/m
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD Core PPI m/m
+DESCRIPTION:5分钟后: USD Core Retail Sales m/m
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e696e513-685f-5745-9f2b-dfba7af02314@live-economic-calendar
-DTSTAMP:20260913T031134Z
-DTSTART:20260910T123000Z
-DTEND:20260910T130000Z
-SUMMARY:USD PPI m/m
-DESCRIPTION:Forecast: 0.4%\nPrevious: 0.0%\nActual: 未公布\nCurrency: USD\nI
- mpact: High\n说明: 上游价格压力数据；可能影响 CPI/PCE 预期。\n备注: Forecast / Previous / Ac
- tual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
+UID:effa1132-6536-531b-a4ff-f83341dc4e59@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+SUMMARY:USD Retail Sales m/m
+DESCRIPTION:Forecast: 0.8%\nPrevious: -0.6%\nActual: 未公布\nCurrency: USD\n
+ Impact: Medium\n说明: 消费强弱数据；美国消费韧性会影响增长与利率预期。\n备注: Forecast / Previous / 
+ Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
 URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD PPI m/m
+DESCRIPTION:30分钟后: USD Retail Sales m/m
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD PPI m/m
+DESCRIPTION:5分钟后: USD Retail Sales m/m
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:28c4201c-3858-5edf-afff-d1e036f59c93@live-economic-calendar
-DTSTAMP:20260913T031134Z
-DTSTART:20260910T123000Z
-DTEND:20260910T130000Z
+UID:7ecaf3a6-b66a-58ea-af05-4d30376618cd@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260916T180000Z
+DTEND:20260916T183000Z
+SUMMARY:USD Federal Funds Rate
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: 3.75%\nActual: 未公布\
+ nCurrency: USD\nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市场预期差。\n备注: For
+ ecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD Federal Funds Rate
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD Federal Funds Rate
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fc7fbda6-3012-571e-bdd1-ac3e766f9dc7@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260916T180000Z
+DTEND:20260916T183000Z
+SUMMARY:USD FOMC Economic Projections
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和
+ 市场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开
+  URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Economic Projections
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Economic Projections
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0d61c2a1-8fe4-5588-9f08-bccfb5d77b0d@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260916T180000Z
+DTEND:20260916T183000Z
+SUMMARY:USD FOMC Statement
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和
+ 市场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开
+  URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Statement
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Statement
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9beedb-e706-598e-8d8c-34cbd6cb0b41@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260916T183000Z
+DTEND:20260916T190000Z
+SUMMARY:USD FOMC Press Conference
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和
+ 市场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开
+  URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Press Conference
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Press Conference
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3a81778e-c6a0-5942-be22-b620740c559a@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260917T123000Z
+DTEND:20260917T130000Z
 SUMMARY:USD Unemployment Claims
-DESCRIPTION:Forecast: 205K\nPrevious: 206K\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 209K\nPrevious: 206K\nActual: 未公布\nCurrency: USD\nI
  mpact: Medium\n说明: 劳动力市场核心数据；会影响美元、美债、黄金、股指。\n备注: Forecast / Previous / 
  Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -74,91 +165,26 @@ DESCRIPTION:5分钟后: USD Unemployment Claims
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ec6be4fa-64ec-574a-acfb-ad2c7d91da80@live-economic-calendar
-DTSTAMP:20260913T031134Z
-DTSTART:20260911T123000Z
-DTEND:20260911T130000Z
-SUMMARY:USD Core CPI m/m
-DESCRIPTION:Forecast: 0.2%\nPrevious: 0.2%\nActual: 未公布\nCurrency: USD\nI
- mpact: High\n说明: 通胀核心数据；高于预期通常推高美元和美债收益率，压制黄金/风险资产，具体取决于市场定价。\n备注: Forec
- ast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
+UID:9e56f3cc-5edf-5201-92ab-c011f712b014@live-economic-calendar
+DTSTAMP:20260913T110532Z
+DTSTART:20260918T133000Z
+DTEND:20260918T140000Z
+SUMMARY:USD FOMC Member Bowman Speaks
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
 LOCATION:Forex Factory
 URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD Core CPI m/m
+DESCRIPTION:30分钟后: USD FOMC Member Bowman Speaks
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD Core CPI m/m
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a8d373fd-49cd-5eae-9927-04e6583c6891@live-economic-calendar
-DTSTAMP:20260913T031134Z
-DTSTART:20260911T123000Z
-DTEND:20260911T130000Z
-SUMMARY:USD Core CPI y/y
-DESCRIPTION:Forecast: 2.4%\nPrevious: 2.5%\nActual: 未公布\nCurrency: USD\nI
- mpact: High\n说明: 通胀核心数据；高于预期通常推高美元和美债收益率，压制黄金/风险资产，具体取决于市场定价。\n备注: Forec
- ast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
-LOCATION:Forex Factory
-URL:https://www.forexfactory.com/calendar
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD Core CPI y/y
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT5M
-ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD Core CPI y/y
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:66e140d8-83e3-5fba-bf2e-c711aa76cd91@live-economic-calendar
-DTSTAMP:20260913T031134Z
-DTSTART:20260911T123000Z
-DTEND:20260911T130000Z
-SUMMARY:USD CPI m/m
-DESCRIPTION:Forecast: 0.4%\nPrevious: 0.1%\nActual: 未公布\nCurrency: USD\nI
- mpact: High\n说明: 通胀核心数据；高于预期通常推高美元和美债收益率，压制黄金/风险资产，具体取决于市场定价。\n备注: Forec
- ast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
-LOCATION:Forex Factory
-URL:https://www.forexfactory.com/calendar
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD CPI m/m
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT5M
-ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD CPI m/m
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d0d0d5bd-1d34-5cbf-af99-560372c70cdd@live-economic-calendar
-DTSTAMP:20260913T031134Z
-DTSTART:20260911T123000Z
-DTEND:20260911T130000Z
-SUMMARY:USD CPI y/y
-DESCRIPTION:Forecast: 3.4%\nPrevious: 3.4%\nActual: 未公布\nCurrency: USD\nI
- mpact: High\n说明: 通胀核心数据；高于预期通常推高美元和美债收益率，压制黄金/风险资产，具体取决于市场定价。\n备注: Forec
- ast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
-LOCATION:Forex Factory
-URL:https://www.forexfactory.com/calendar
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD CPI y/y
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT5M
-ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD CPI y/y
+DESCRIPTION:5分钟后: USD FOMC Member Bowman Speaks
 END:VALARM
 END:VEVENT
 END:VCALENDAR
