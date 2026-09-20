@@ -8,147 +8,194 @@ X-WR-TIMEZONE:UTC
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:c8948682-b793-5eca-b6e4-131c89cff976@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260916T123000Z
-DTEND:20260916T130000Z
-SUMMARY:USD Core Retail Sales m/m
-DESCRIPTION:Forecast: 0.6%\nPrevious: -0.3%\nActual: 未公布\nCurrency: USD\n
- Impact: Medium\n说明: 消费强弱数据；美国消费韧性会影响增长与利率预期。\n备注: Forecast / Previous / 
- Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
-LOCATION:Forex Factory
-URL:https://www.forexfactory.com/calendar
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD Core Retail Sales m/m
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT5M
-ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD Core Retail Sales m/m
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:effa1132-6536-531b-a4ff-f83341dc4e59@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260916T123000Z
-DTEND:20260916T130000Z
-SUMMARY:USD Retail Sales m/m
-DESCRIPTION:Forecast: 0.8%\nPrevious: -0.6%\nActual: 未公布\nCurrency: USD\n
- Impact: Medium\n说明: 消费强弱数据；美国消费韧性会影响增长与利率预期。\n备注: Forecast / Previous / 
- Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
-LOCATION:Forex Factory
-URL:https://www.forexfactory.com/calendar
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD Retail Sales m/m
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT5M
-ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD Retail Sales m/m
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7ecaf3a6-b66a-58ea-af05-4d30376618cd@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260916T180000Z
-DTEND:20260916T183000Z
-SUMMARY:USD Federal Funds Rate
-DESCRIPTION:Forecast: 4.00%\nPrevious: 3.75%\nActual: 未公布\nCurrency: USD\
- nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市场预期差。\n备注: Forecast / Previou
- s / Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
-LOCATION:Forex Factory
-URL:https://www.forexfactory.com/calendar
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD Federal Funds Rate
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT5M
-ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD Federal Funds Rate
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:fc7fbda6-3012-571e-bdd1-ac3e766f9dc7@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260916T180000Z
-DTEND:20260916T183000Z
-SUMMARY:USD FOMC Economic Projections
+UID:4624e898-b583-512c-8ead-a2670da2c123@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260921T103000Z
+DTEND:20260921T110000Z
+SUMMARY:USD FOMC Member Goolsbee Speaks
 DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
- 准\nActual: 未公布\nCurrency: USD\nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和
- 市场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开
-  URL 复核。
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
 LOCATION:Forex Factory
 URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD FOMC Economic Projections
+DESCRIPTION:30分钟后: USD FOMC Member Goolsbee Speaks
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD FOMC Economic Projections
+DESCRIPTION:5分钟后: USD FOMC Member Goolsbee Speaks
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0d61c2a1-8fe4-5588-9f08-bccfb5d77b0d@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260916T180000Z
-DTEND:20260916T183000Z
-SUMMARY:USD FOMC Statement
+UID:f97c9598-8a87-509c-9beb-89e3a3f5b040@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260922T140500Z
+DTEND:20260922T143500Z
+SUMMARY:USD FOMC Member Williams Speaks
 DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
- 准\nActual: 未公布\nCurrency: USD\nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和
- 市场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开
-  URL 复核。
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
 LOCATION:Forex Factory
 URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD FOMC Statement
+DESCRIPTION:30分钟后: USD FOMC Member Williams Speaks
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD FOMC Statement
+DESCRIPTION:5分钟后: USD FOMC Member Williams Speaks
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ad9beedb-e706-598e-8d8c-34cbd6cb0b41@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260916T183000Z
-DTEND:20260916T190000Z
-SUMMARY:USD FOMC Press Conference
+UID:2ae3aa05-df65-5a5c-8953-9a12c05c9cb1@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260922T142000Z
+DTEND:20260922T145000Z
+SUMMARY:USD FOMC Member Jefferson Speaks
 DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
- 准\nActual: 未公布\nCurrency: USD\nImpact: High\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和
- 市场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开
-  URL 复核。
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
 LOCATION:Forex Factory
 URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD FOMC Press Conference
+DESCRIPTION:30分钟后: USD FOMC Member Jefferson Speaks
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD FOMC Press Conference
+DESCRIPTION:5分钟后: USD FOMC Member Jefferson Speaks
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3a81778e-c6a0-5942-be22-b620740c559a@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260917T123000Z
-DTEND:20260917T130000Z
+UID:94177f69-dff4-5c04-a27b-a0420287fc3f@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260922T170000Z
+DTEND:20260922T173000Z
+SUMMARY:USD FOMC Member Barkin Speaks
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Member Barkin Speaks
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Member Barkin Speaks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ab19bd-84a8-53c7-9de5-6f5fa365bc7c@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260923T134500Z
+DTEND:20260923T141500Z
+SUMMARY:USD Flash Manufacturing PMI
+DESCRIPTION:Forecast: 53.4\nPrevious: 53.2\nActual: 未公布\nCurrency: USD\nI
+ mpact: Low\n说明: 景气度数据；影响增长预期和风险偏好。\n备注: Forecast / Previous / Actual 会随 
+ Forex Factory feed 更新；交易前请打开 URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD Flash Manufacturing PMI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD Flash Manufacturing PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5f8131-f601-5dd2-b9f2-baefe9e47bc5@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260923T134500Z
+DTEND:20260923T141500Z
+SUMMARY:USD Flash Services PMI
+DESCRIPTION:Forecast: 56.0\nPrevious: 56.8\nActual: 未公布\nCurrency: USD\nI
+ mpact: Low\n说明: 景气度数据；影响增长预期和风险偏好。\n备注: Forecast / Previous / Actual 会随 
+ Forex Factory feed 更新；交易前请打开 URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD Flash Services PMI
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD Flash Services PMI
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:83fbfdbf-583f-51e5-8bae-7e16a5f83525@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260923T140500Z
+DTEND:20260923T143500Z
+SUMMARY:USD FOMC Member Barr Speaks
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Member Barr Speaks
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Member Barr Speaks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11df2dae-9be5-5f39-9c5c-f8e92380baaf@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260924T081000Z
+DTEND:20260924T084000Z
+SUMMARY:USD FOMC Member Williams Speaks
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Member Williams Speaks
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Member Williams Speaks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ac1e061e-f321-508e-9833-67ba0513dab5@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260924T123000Z
+DTEND:20260924T130000Z
 SUMMARY:USD Unemployment Claims
-DESCRIPTION:Forecast: 207K\nPrevious: 206K\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 201K\nPrevious: 196K\nActual: 未公布\nCurrency: USD\nI
  mpact: Medium\n说明: 劳动力市场核心数据；会影响美元、美债、黄金、股指。\n备注: Forecast / Previous / 
  Actual 会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -165,11 +212,11 @@ DESCRIPTION:5分钟后: USD Unemployment Claims
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9e56f3cc-5edf-5201-92ab-c011f712b014@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260918T133000Z
-DTEND:20260918T140000Z
-SUMMARY:USD FOMC Member Bowman Speaks
+UID:11b060a6-4b4d-5213-acc5-25833b61fd46@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260924T125000Z
+DTEND:20260924T132000Z
+SUMMARY:USD FOMC Member Hammack Speaks
 DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
  准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
  场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
@@ -179,20 +226,20 @@ URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD FOMC Member Bowman Speaks
+DESCRIPTION:30分钟后: USD FOMC Member Hammack Speaks
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD FOMC Member Bowman Speaks
+DESCRIPTION:5分钟后: USD FOMC Member Hammack Speaks
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c3935fb1-a201-595a-ba1d-f24268553b82@live-economic-calendar
-DTSTAMP:20260920T032628Z
-DTSTART:20260918T154500Z
-DTEND:20260918T161500Z
-SUMMARY:USD FOMC Member Schmid Speaks
+UID:a5d04582-1bbf-53e9-836c-5302b8f77811@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260924T141000Z
+DTEND:20260924T144000Z
+SUMMARY:USD FOMC Member Paulson Speaks
 DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
  准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
  场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
@@ -202,12 +249,58 @@ URL:https://www.forexfactory.com/calendar
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:30分钟后: USD FOMC Member Schmid Speaks
+DESCRIPTION:30分钟后: USD FOMC Member Paulson Speaks
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT5M
 ACTION:DISPLAY
-DESCRIPTION:5分钟后: USD FOMC Member Schmid Speaks
+DESCRIPTION:5分钟后: USD FOMC Member Paulson Speaks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:74d4a33c-9ea4-5b2f-acb7-be731deab986@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260925T091500Z
+DTEND:20260925T094500Z
+SUMMARY:USD FOMC Member Williams Speaks
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Member Williams Speaks
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Member Williams Speaks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f016c7ca-62df-51f3-9995-faec04b6066b@live-economic-calendar
+DTSTAMP:20260920T103806Z
+DTSTART:20260925T180000Z
+DTEND:20260925T183000Z
+SUMMARY:USD FOMC Member Hammack Speaks
+DESCRIPTION:Forecast: Forex Factory 当天页面为准\nPrevious: Forex Factory 当天页面为
+ 准\nActual: 未公布\nCurrency: USD\nImpact: Low\n说明: 美联储政策事件；关注声明、点阵图、新闻发布会和市
+ 场预期差。\n备注: Forecast / Previous / Actual 会随 Forex Factory feed 更新；交易前请打开 
+ URL 复核。
+LOCATION:Forex Factory
+URL:https://www.forexfactory.com/calendar
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:30分钟后: USD FOMC Member Hammack Speaks
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:5分钟后: USD FOMC Member Hammack Speaks
 END:VALARM
 END:VEVENT
 END:VCALENDAR
