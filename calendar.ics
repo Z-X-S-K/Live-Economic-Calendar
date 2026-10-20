@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:afe25d91-b873-5ef3-a83b-1e1b7decf2a8@live-economic-calendar
-DTSTAMP:20261020T032544Z
+DTSTAMP:20261020T105557Z
 DTSTART:20261022T123000Z
 DTEND:20261022T130000Z
 SUMMARY:USD Unemployment Claims
@@ -31,11 +31,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ef2feb85-ee2c-55cc-98bf-ef70a13ffe76@live-economic-calendar
-DTSTAMP:20261020T032544Z
+DTSTAMP:20261020T105557Z
 DTSTART:20261023T134500Z
 DTEND:20261023T141500Z
 SUMMARY:USD Flash Manufacturing PMI
-DESCRIPTION:Forecast: 55.5\nPrevious: 57.0\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 55.4\nPrevious: 57.0\nActual: 未公布\nCurrency: USD\nI
  mpact: Medium\n说明: 景气度数据；影响增长预期和风险偏好。\n备注: Forecast / Previous / Actual 
  会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
@@ -53,11 +53,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e822c64a-83c9-5464-bb88-c410b9586b10@live-economic-calendar
-DTSTAMP:20261020T032544Z
+DTSTAMP:20261020T105557Z
 DTSTART:20261023T134500Z
 DTEND:20261023T141500Z
 SUMMARY:USD Flash Services PMI
-DESCRIPTION:Forecast: 58.0\nPrevious: 58.7\nActual: 未公布\nCurrency: USD\nI
+DESCRIPTION:Forecast: 57.8\nPrevious: 58.7\nActual: 未公布\nCurrency: USD\nI
  mpact: Medium\n说明: 景气度数据；影响增长预期和风险偏好。\n备注: Forecast / Previous / Actual 
  会随 Forex Factory feed 更新；交易前请打开 URL 复核。
 LOCATION:Forex Factory
